@@ -9,6 +9,9 @@ class Fighter {
     this.image = image;
     this.weapon = null;
     this.shield = null;
+    this.x = x;
+    this.y = y;
+    
   }
 
   /**
