@@ -1,9 +1,7 @@
-let monsters = [bird1, bird2, bird3]
 class Arena {
-  constructor(heracles, monsters){
+  constructor(hero, monsters){
     this.monsters = monsters;
-    this.hero = heracles;
+    this.hero = hero;
     this.size = 10;
-
   }
 }

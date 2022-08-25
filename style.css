@@ -35,7 +35,7 @@ body {
 
     margin:0;
     padding-bottom: var(--spacing);
-    background-image: url('../images/background.webp');
+    background-image: url('images/background.webp');
     background-attachment: fixed;
     font-family: var(--title-font);
     font-size:var(--text-font-size);
